@@ -9,5 +9,6 @@ while n>0:
     for i in range(1,2):
         for j in range(i,n):
             print(j, end="")
+            #comment
         print("")
     n-=1
